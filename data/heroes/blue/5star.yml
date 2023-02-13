@@ -1303,7 +1303,7 @@
     - Attack Buff
     - Health Regen
   passives:
-    - When this character casts their Special Skill, they have a 100% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies
+    - When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies
   image: https://i.imgur.com/eyJkRvq.jpg
 - name: Adalinda
   class: Paladin
